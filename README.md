@@ -10,3 +10,5 @@ You need install some libs:
 
 You can also understand this project by reading this article.
 
+http://programmer.zhujunwu.cn/article/38297
+
